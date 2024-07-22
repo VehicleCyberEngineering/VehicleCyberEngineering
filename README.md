@@ -19,8 +19,6 @@ Collaboration and Open Source: Working with industry partners, academic institut
 
 ![myimage-alt-tag](url-to-image)
 
-![stack Overflow](http://lmsotfy.com/so.png)
-
 Our Public Repositories
 
 We believe in the power of open-source collaboration. By sharing our research findings, tools, and experimental results, we aim to contribute to the global effort in securing automotive systems. Here are some of the key repositories you'll find on our GitHub profile:
