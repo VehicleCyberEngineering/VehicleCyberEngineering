@@ -17,7 +17,7 @@ Intrusion Detection Systems (IDS): Creating and deploying IDS to detect and resp
 Collaboration and Open Source: Working with industry partners, academic institutions, and the open-source community to share knowledge and foster innovation in vehicle cybersecurity.
 )
 
-![TESTCUBE.png](file:///Users/navyamorampudi/Downloads/Vehicle%20Cybersecurity%20Lab%20_%20University%20of%20Detroit%20Detroit-Mercy_files/TESTCUBE.png)
+![TESTCUBE.png](https://raminaama.github.io/VCLHomepage/MainPage/TESTCUBE.png)
 
 Our Public Repositories
 
